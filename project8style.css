@@ -1,0 +1,38 @@
+#header {
+color: #018209;
+text-align:center;
+}
+
+body {
+font-family: Verdana;
+}
+
+th {
+background-color: #ffff00;
+border: 2px solid black;
+width: 20%;
+}
+
+table {
+width: 650px;
+border-collapse: collapse;
+margin:auto;
+text-align: center;
+padding: 8px 0px 8px 0px;
+}
+
+.red {
+color: red;
+}
+
+.blue {
+color: #1d0fcc;
+}
+
+td {
+border: 2px dotted blue;
+padding: 4px 0px 4px 0px;
+}
+
+
+
